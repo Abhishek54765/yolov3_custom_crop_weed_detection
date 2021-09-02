@@ -1,5 +1,5 @@
 # yolov3_custom_crop_weed_detection
-In this I have implemented object detection by using state_of_the_art algorithm that is yolov3. I have trained my yolov3 model on 1300 weeds and crop images. With 6 hours of training on google colab Tesla T4 gpu i was able to get prety good results.
+In this I have implemented object detection by using state_of_the_art object detection algorithm that is yolov3. I have trained my yolov3 model on 1300 weeds and crop images. With 6 hours of training on google colab Tesla T4 gpu i was able to get prety good results.
 
 link for dataset = https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes
 
